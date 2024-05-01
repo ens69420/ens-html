@@ -137,15 +137,4 @@ video {
 }
 :fullscreen {
   /* ... */
-
-/* normal */
-.carousel-cell {
-  height: 200px;
-}
-
-/* fullscreen */
-.carousel.is-fullscreen .carousel-cell {
-  height: 100%;
-}
-
 }
