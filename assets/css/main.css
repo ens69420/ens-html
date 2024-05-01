@@ -147,3 +147,12 @@ video {
 .carousel.is-fullscreen .carousel-cell {
   height: 100%;
 }
+.profile,
+.social-tab {
+    background: rgba(17, 17, 17);
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    box-sizing: border-box;
+    border-radius: 10px
+}
